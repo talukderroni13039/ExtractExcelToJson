@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>ExtractExcelApp.Services.ExtractExccl-20240125-190747</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.13.12, Windows 11 (10.0.22621.2861/22H2/2022Update/SunValley2)
+11th Gen Intel Core i7-1165G7 2.80GHz, 1 CPU, 8 logical and 4 physical cores
+  [Host]     : .NET Framework 4.8.1 (4.8.9181.0), X86 LegacyJIT [AttachedDebugger]
+  DefaultJob : .NET Framework 4.8.1 (4.8.9181.0), X86 LegacyJIT
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method            </th><th>Mean </th><th>Error</th><th>StdDev</th><th>Median</th>
+</tr>
+</thead><tbody><tr><td>ExtractDatafromFastExcel</td><td>47.19 ms</td><td>0.931 ms</td><td>1.243 ms</td><td>47.07 ms</td>
+</tr><tr><td>ExtractDatafromEPPlus</td><td>28.93 ms</td><td>0.603 ms</td><td>1.681 ms</td><td>28.69 ms</td>
+</tr><tr><td>ExportDataFromSpire</td><td>1,022.56 ms</td><td>20.110 ms</td><td>41.976 ms</td><td>1,006.81 ms</td>
+</tr></tbody></table>
+</body>
+</html>

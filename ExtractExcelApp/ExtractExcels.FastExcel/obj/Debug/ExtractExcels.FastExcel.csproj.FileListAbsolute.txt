@@ -1,0 +1,2 @@
+D:\Projects\ExtractExcels.FastExcel\obj\Debug\ExtractExcels.FastExcel.csproj.AssemblyReference.cache
+D:\Projects\ExtractExcels.FastExcel\obj\Debug\ExtractExcels.FastExcel.csproj.CoreCompileInputs.cache

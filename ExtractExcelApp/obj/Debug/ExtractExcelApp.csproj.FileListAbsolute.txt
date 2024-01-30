@@ -1,0 +1,203 @@
+E:\New folder\ExtractExcelApp\bin\Debug\ExtractExcelApp.exe.config
+E:\New folder\ExtractExcelApp\bin\Debug\ExtractExcelApp.exe
+E:\New folder\ExtractExcelApp\bin\Debug\ExtractExcelApp.pdb
+E:\New folder\ExtractExcelApp\bin\Debug\Spire.Common.dll
+E:\New folder\ExtractExcelApp\bin\Debug\Spire.License.dll
+E:\New folder\ExtractExcelApp\bin\Debug\Spire.Pdf.dll
+E:\New folder\ExtractExcelApp\bin\Debug\Spire.XLS.dll
+E:\New folder\ExtractExcelApp\bin\Debug\Microsoft.mshtml.dll
+E:\New folder\ExtractExcelApp\bin\Debug\Spire.Common.xml
+E:\New folder\ExtractExcelApp\bin\Debug\Spire.License.xml
+E:\New folder\ExtractExcelApp\bin\Debug\Spire.Pdf.xml
+E:\New folder\ExtractExcelApp\bin\Debug\Spire.XLS.xml
+E:\New folder\ExtractExcelApp\obj\Debug\ExtractExcelApp.csproj.AssemblyReference.cache
+E:\New folder\ExtractExcelApp\obj\Debug\ExtractExcelApp.csproj.SuggestedBindingRedirects.cache
+E:\New folder\ExtractExcelApp\obj\Debug\ExtractExcelApp.csproj.CoreCompileInputs.cache
+E:\New folder\ExtractExcelApp\obj\Debug\ExtractExcelApp.csproj.CopyComplete
+E:\New folder\ExtractExcelApp\obj\Debug\ExtractExcelApp.exe
+E:\New folder\ExtractExcelApp\obj\Debug\ExtractExcelApp.pdb
+E:\New folder\ExtractExcelApp\bin\Debug\Output\AccountNumber.txt
+D:\ExtractExcelApp\obj\Debug\ExtractExcelApp.csproj.AssemblyReference.cache
+D:\ExtractExcelApp\obj\Debug\ExtractExcelApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExtractExcelApp\obj\Debug\ExtractExcelApp.csproj.CoreCompileInputs.cache
+D:\ExtractExcelApp\bin\Debug\OSExtensions.dll
+D:\ExtractExcelApp\bin\Debug\x86\KernelTraceControl.dll
+D:\ExtractExcelApp\bin\Debug\x86\KernelTraceControl.Win61.dll
+D:\ExtractExcelApp\bin\Debug\x86\msdia140.dll
+D:\ExtractExcelApp\bin\Debug\x86\msvcp140.dll
+D:\ExtractExcelApp\bin\Debug\x86\vcruntime140.dll
+D:\ExtractExcelApp\bin\Debug\amd64\KernelTraceControl.dll
+D:\ExtractExcelApp\bin\Debug\amd64\msdia140.dll
+D:\ExtractExcelApp\bin\Debug\amd64\msvcp140.dll
+D:\ExtractExcelApp\bin\Debug\amd64\vcruntime140.dll
+D:\ExtractExcelApp\bin\Debug\amd64\vcruntime140_1.dll
+D:\ExtractExcelApp\bin\Debug\arm64\KernelTraceControl.dll
+D:\ExtractExcelApp\bin\Debug\arm64\msdia140.dll
+D:\ExtractExcelApp\bin\Debug\arm64\msvcp140.dll
+D:\ExtractExcelApp\bin\Debug\arm64\vcruntime140.dll
+D:\ExtractExcelApp\bin\Debug\arm64\vcruntime140_1.dll
+D:\ExtractExcelApp\bin\Debug\TraceReloggerLib.dll
+D:\ExtractExcelApp\bin\Debug\Dia2Lib.dll
+D:\ExtractExcelApp\bin\Debug\Output\AccountNumber.txt
+D:\ExtractExcelApp\bin\Debug\ExtractExcelApp.exe.config
+D:\ExtractExcelApp\bin\Debug\ExtractExcelApp.exe
+D:\ExtractExcelApp\bin\Debug\ExtractExcelApp.pdb
+D:\ExtractExcelApp\bin\Debug\BenchmarkDotNet.Annotations.dll
+D:\ExtractExcelApp\bin\Debug\BenchmarkDotNet.dll
+D:\ExtractExcelApp\bin\Debug\BitMiracle.LibTiff.NET.dll
+D:\ExtractExcelApp\bin\Debug\CommandLine.dll
+D:\ExtractExcelApp\bin\Debug\EPPlus.dll
+D:\ExtractExcelApp\bin\Debug\EPPlus.Interfaces.dll
+D:\ExtractExcelApp\bin\Debug\EPPlus.System.Drawing.dll
+D:\ExtractExcelApp\bin\Debug\FastExcel.dll
+D:\ExtractExcelApp\bin\Debug\Gee.External.Capstone.dll
+D:\ExtractExcelApp\bin\Debug\Iced.dll
+D:\ExtractExcelApp\bin\Debug\IronSoftware.Abstractions.dll
+D:\ExtractExcelApp\bin\Debug\IronSoftware.Drawing.Common.dll
+D:\ExtractExcelApp\bin\Debug\IronSoftware.Logger.dll
+D:\ExtractExcelApp\bin\Debug\IronSoftware.Shared.dll
+D:\ExtractExcelApp\bin\Debug\IronXL.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Diagnostics.FastSerialization.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Diagnostics.NETCore.Client.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.Win32.Registry.dll
+D:\ExtractExcelApp\bin\Debug\Newtonsoft.Json.dll
+D:\ExtractExcelApp\bin\Debug\Perfolizer.dll
+D:\ExtractExcelApp\bin\Debug\SixLabors.Fonts.dll
+D:\ExtractExcelApp\bin\Debug\SixLabors.ImageSharp.dll
+D:\ExtractExcelApp\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+D:\ExtractExcelApp\bin\Debug\Spire.Common.dll
+D:\ExtractExcelApp\bin\Debug\Spire.License.dll
+D:\ExtractExcelApp\bin\Debug\Spire.Pdf.dll
+D:\ExtractExcelApp\bin\Debug\Spire.XLS.dll
+D:\ExtractExcelApp\bin\Debug\System.Buffers.dll
+D:\ExtractExcelApp\bin\Debug\System.Collections.Immutable.dll
+D:\ExtractExcelApp\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ExtractExcelApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\ExtractExcelApp\bin\Debug\System.Memory.dll
+D:\ExtractExcelApp\bin\Debug\System.Numerics.Vectors.dll
+D:\ExtractExcelApp\bin\Debug\System.Reflection.Metadata.dll
+D:\ExtractExcelApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ExtractExcelApp\bin\Debug\System.Security.AccessControl.dll
+D:\ExtractExcelApp\bin\Debug\System.Security.Permissions.dll
+D:\ExtractExcelApp\bin\Debug\System.Security.Principal.Windows.dll
+D:\ExtractExcelApp\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\ExtractExcelApp\bin\Debug\System.Text.Encodings.Web.dll
+D:\ExtractExcelApp\bin\Debug\System.Text.Json.dll
+D:\ExtractExcelApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ExtractExcelApp\bin\Debug\System.ValueTuple.dll
+D:\ExtractExcelApp\bin\Debug\Microsoft.mshtml.dll
+D:\ExtractExcelApp\bin\Debug\BenchmarkDotNet.xml
+D:\ExtractExcelApp\bin\Debug\BenchmarkDotNet.Annotations.xml
+D:\ExtractExcelApp\bin\Debug\BitMiracle.LibTiff.NET.xml
+D:\ExtractExcelApp\bin\Debug\CommandLine.xml
+D:\ExtractExcelApp\bin\Debug\EPPlus.xml
+D:\ExtractExcelApp\bin\Debug\FastExcel.xml
+D:\ExtractExcelApp\bin\Debug\Gee.External.Capstone.xml
+D:\ExtractExcelApp\bin\Debug\Iced.xml
+D:\ExtractExcelApp\bin\Debug\IronSoftware.Abstractions.pdb
+D:\ExtractExcelApp\bin\Debug\IronSoftware.Drawing.Common.pdb
+D:\ExtractExcelApp\bin\Debug\IronSoftware.Drawing.Common.xml
+D:\ExtractExcelApp\bin\Debug\IronSoftware.Logger.pdb
+D:\ExtractExcelApp\bin\Debug\IronSoftware.Shared.pdb
+D:\ExtractExcelApp\bin\Debug\IronXL.xml
+D:\ExtractExcelApp\bin\Debug\IronXL.dll.config
+D:\ExtractExcelApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.CodeAnalysis.pdb
+D:\ExtractExcelApp\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+D:\ExtractExcelApp\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Diagnostics.FastSerialization.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Diagnostics.NETCore.Client.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+D:\ExtractExcelApp\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Diagnostics.Tracing.TraceEvent.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\ExtractExcelApp\bin\Debug\Microsoft.Win32.Registry.xml
+D:\ExtractExcelApp\bin\Debug\Newtonsoft.Json.xml
+D:\ExtractExcelApp\bin\Debug\SixLabors.Fonts.xml
+D:\ExtractExcelApp\bin\Debug\SixLabors.ImageSharp.xml
+D:\ExtractExcelApp\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+D:\ExtractExcelApp\bin\Debug\Spire.Common.xml
+D:\ExtractExcelApp\bin\Debug\Spire.License.xml
+D:\ExtractExcelApp\bin\Debug\Spire.Pdf.xml
+D:\ExtractExcelApp\bin\Debug\Spire.XLS.xml
+D:\ExtractExcelApp\bin\Debug\System.Buffers.xml
+D:\ExtractExcelApp\bin\Debug\System.Collections.Immutable.xml
+D:\ExtractExcelApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\ExtractExcelApp\bin\Debug\System.Memory.xml
+D:\ExtractExcelApp\bin\Debug\System.Numerics.Vectors.xml
+D:\ExtractExcelApp\bin\Debug\System.Reflection.Metadata.xml
+D:\ExtractExcelApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ExtractExcelApp\bin\Debug\System.Security.AccessControl.xml
+D:\ExtractExcelApp\bin\Debug\System.Security.Permissions.xml
+D:\ExtractExcelApp\bin\Debug\System.Security.Principal.Windows.xml
+D:\ExtractExcelApp\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\ExtractExcelApp\bin\Debug\System.Text.Encodings.Web.xml
+D:\ExtractExcelApp\bin\Debug\System.Text.Json.xml
+D:\ExtractExcelApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ExtractExcelApp\bin\Debug\System.ValueTuple.xml
+D:\ExtractExcelApp\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ExtractExcelApp\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+D:\ExtractExcelApp\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+D:\ExtractExcelApp\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ExtractExcelApp\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+D:\ExtractExcelApp\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ExtractExcelApp\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ExtractExcelApp\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ExtractExcelApp\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ExtractExcelApp\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ExtractExcelApp\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ExtractExcelApp\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ExtractExcelApp\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ExtractExcelApp\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExtractExcelApp\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExtractExcelApp\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExtractExcelApp\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExtractExcelApp\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExtractExcelApp\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExtractExcelApp\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExtractExcelApp\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExtractExcelApp\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExtractExcelApp\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExtractExcelApp\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExtractExcelApp\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExtractExcelApp\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ExtractExcelApp\obj\Debug\ExtractExcelApp.csproj.CopyComplete
+D:\ExtractExcelApp\obj\Debug\ExtractExcelApp.exe
+D:\ExtractExcelApp\obj\Debug\ExtractExcelApp.pdb
+D:\ExtractExcelApp\bin\Debug\ExtractExcels.FastExcel.dll
+D:\ExtractExcelApp\bin\Debug\ExtractExcels.FastExcel.pdb
